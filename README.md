@@ -8,4 +8,4 @@
 *I’m an energetic and optimistic person who continues moving forward regardless of circumstances, and I enjoy supporting others who may be struggling to do the same. In my downtime, I like watching movies, reading, and working on a wide range of creative projects, such as coding projects, game modding, cosplay prop creation, character art, and creative writing. I’ve explored many creative disciplines, which makes me highly versatile and adaptable when approaching new challenges.*
 
 **Known Coding Languages:**
-[![Java](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffossbytes.com%2F10-reasons-learn-java-programming-language%2F&psig=AOvVaw1KYeMHXTJ18jcD0agFKIxg&ust=1768407296844000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCJDczNj0iJIDFQAAAAAdAAAAABAE)]((https://www.java.com/en/))
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
