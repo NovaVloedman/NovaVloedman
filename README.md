@@ -7,6 +7,8 @@
 
 *I’m an energetic and optimistic person who continues moving forward regardless of circumstances, and I enjoy supporting others who may be struggling to do the same. In my downtime, I like watching movies, reading, and working on a wide range of creative projects, such as coding projects, game modding, cosplay prop creation, character art, and creative writing. I’ve explored many creative disciplines, which makes me highly versatile and adaptable when approaching new challenges.*
 
+
 **Known Coding Languages:**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white)
