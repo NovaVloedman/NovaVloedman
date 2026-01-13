@@ -1,4 +1,4 @@
-## Hello, I'm Nova Vloedman
+## Hello, I'm Nova
 
 **👋 About Me:** *I use they/them pronouns (any are welcome). I’m currently an undergraduate university student and an aspiring software engineer. I take pride in my ability to quickly learn new skills and am always seeking better, more effective ways to grow and apply myself in the field of software development. While my primary focus is programming, I also have an intermediate background in digital art, including line art, pixel art, and oil painting.*
 
@@ -6,11 +6,10 @@
 
 **🎓 Education:** 
 *Graduated Springboro High School*
-*Undergraduate at Wright State University, persuing bachelor's *
-
+*Undergraduate at Wright State University, persuing bachelor's*
 
 **💻 Known Coding Languages:**
-
+I'm most experienced in Java Swing, with an intermediate understanding of Python, HTML, and Assembly
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
