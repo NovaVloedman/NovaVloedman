@@ -10,6 +10,7 @@
 
 **💻 Known Coding Languages:**
 I'm most experienced in Java Swing, with an intermediate understanding of Python, HTML, and Assembly
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
