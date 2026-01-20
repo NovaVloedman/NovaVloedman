@@ -18,3 +18,9 @@ I'm most experienced in Java Swing, with an intermediate understanding of Python
 
 **📦 Projects:**
 - College CS Projects: https://github.com/NovaVloedman/CS-Projects
+
+Future Projects(this semester):
+- Participate in a game jam
+*Overview: This semester I'm gonna commit to learning C#, and using the knowledge I gain to make a simple side scroller game jam game. My goal will be to make it within a short time frame, with my own pixel art, and mechanics.*
+- Hackathon
+**Overview: A college team coding competition where a bunch of students solve as many problems as possible in the span of a few hours. The team with the best, style and most problems solves wins.
